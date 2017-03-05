@@ -9,7 +9,7 @@
 ### Requests
 **POST**: `https://example.com/mylinkshortener/`
 
-Key | URL | Required | Value
+Key | Desc | Required | Value
 --- | --- | --- | ---
 *url* | URL to shorten, eg `google.com` | yes | `url to shorten`
 *pretty* | Send this key to enable worded url | no | [any value accepted]
